@@ -12,7 +12,7 @@ const Dropdown = ({ options, onChange, selectedItem }) => {
         </option>
       ))}
     </select>
-  )
-}
+  );
+};
 
-export default Dropdown
+export default Dropdown;
